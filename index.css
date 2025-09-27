@@ -2,13 +2,14 @@ body {
     margin: 0;
     text-align: center;
     background-color: #1B244A;
+    width: 1440px;
     
 }
 
 .container {
     background-image: linear-gradient(#9AABD8,#1B244A );
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     height: 385px;    
 }
 
